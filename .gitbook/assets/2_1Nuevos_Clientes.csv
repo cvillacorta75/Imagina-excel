@@ -1,0 +1,6 @@
+ClienteID,Nombre_Fiscal,Nombre_Comercial,Direccion_Completa,Numero_Empleados,Fecha_Alta,Preferencias_Comunicacion,Observaciones_Internas
+CL-0125,VETFINITIES SUR S.L.,Clínica Veterinaria VetSur,"Calle Mayor 123, Local 4, Madrid, 28001, España",12,15/01/2023,Email,"Cliente VIP. Tienen un pedido recurrente de pienso renal que se gestiona la primera semana de cada mes. Contactar siempre a Dra. Ana López."
+CL-0126,MASCOTANATURA S.A.,Centro Canino El Roble,"Avenida de los Montes 45, Urbanización El Pinar, Alcobendas, 28100, Madrid",8,22/02/2023,,
+CL-0127,ANIMAL HEALTHCARE GROUP S.L.U.,Hospital Veterinario Animalia,"Plaza de la Ciencia 2, Parque Tecnológico, Valencia, 46980, España",25,05/03/2023,Telefono,"Cliente grande con varias sucursales. El contacto principal para compras de material médico es Ricardo Montes. Para alimentación, hablar con Sonia."
+CL-0128,FELICES MASCOTAS COMERCIO MINORISTA S.L.,Mascotas Felices,"Paseo de la Playa 78, Bajo, Málaga, 29001, España",4,11/04/2023,Email,
+CL-0129,EQUINE SPECIALISTS VET SERVICES S.C.,Clínica Equina La Dehesa,"Camino del Prado s/n, Finca La Herradura, Sevilla, 41001, España",6,30/05/2023,Email,"Cliente especializado en caballos. Solo compran material médico equino y suplementos específicos. No compran comida de perro/gato."
