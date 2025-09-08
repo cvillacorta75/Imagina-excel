@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Bienvenidos a Excel Fundamentals](README.md)
+* [Bienvenidos a Excel Intermedio](README.md)
   * [Sesión 1](readme/sesion-1.md)
   * [Sesión 2](readme/sesion-2.md)
   * [Sesión 3](readme/sesion-3.md)
