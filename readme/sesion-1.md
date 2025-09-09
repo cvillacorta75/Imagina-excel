@@ -1,6 +1,30 @@
 # Sesión 1
 
-{% embed url="https://docs.google.com/presentation/d/1vY5DyrgPip4sCmXwyV7lyOINnGDXiJ-qqxYFsRovyZc/edit?usp=sharing" %}
+<details>
+
+<summary>Tema 1 - Repaso rápido de mínimos de Excel</summary>
+
+* [ ] Licencias y versiones más comunes
+* [ ] Acceso a Excel: Escritorio, Web y 365
+* [ ] Interfaz general: cinta, barra de fórmulas y hoja
+* [ ] Crear y guardar libros de Excel
+* [ ] Diferencia entre .xls, .xlsx, .csv
+* [ ] Deshacer, rehacer y ayuda integrada
+* [ ] Abrir archivos recientes
+* [ ] Zoom, vista de diseño y pestañas de hoja
+* [ ] Accesos rápidos y atajos básicos
+* [ ] ¿Qué es un libro y qué es una hoja?
+* [ ] Añadir, renombrar y eliminar hojas
+* [ ] Mover, copiar y duplicar hojas
+* [ ] Agrupar y colorear pestañas
+* [ ] Navegación entre hojas
+* [ ] Insertar múltiples hojas
+* [ ] Protección básica de hojas
+* [ ] Ver múltiples hojas a la vez
+* [ ] Vista previa antes de imprimir
+* [ ] Cambiar el orden de las hojas
+
+</details>
 
 #### Metodología
 
