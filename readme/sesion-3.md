@@ -1,5 +1,6 @@
 ---
 description: Tema 6, Tema 7
+hidden: true
 ---
 
 # Sesión 3

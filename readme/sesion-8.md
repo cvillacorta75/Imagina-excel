@@ -1,5 +1,6 @@
 ---
 description: Tema 17
+hidden: true
 ---
 
 # Sesión 8

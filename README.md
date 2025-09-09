@@ -1,6 +1,7 @@
 ---
 icon: hand-wave
-cover: https://gitbookio.github.io/onboarding-template-images/header.png
+cover: >-
+  https://images.unsplash.com/photo-1658203897339-0b8c64a42fba?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxFeGNlbHxlbnwwfHx8fDE3NTc0MDQxNTl8MA&ixlib=rb-4.1.0&q=85
 coverY: 0
 ---
 
@@ -51,4 +52,6 @@ Implementar gráficos avanzados y personalizados para una mejor visualización d
 
 ***
 
-{% embed url="https://docs.google.com/presentation/d/1zB6AfPuMxKBQb_lUbHQTORHxt7aag1Pe/edit?ouid=102701557966502187946&rtpof=true&sd=true&usp=sharing" fullWidth="true" %}
+#### Presentación Introductoria
+
+{% file src=".gitbook/assets/1 Curso Excel Intermedio.pdf" %}

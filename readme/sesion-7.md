@@ -1,5 +1,6 @@
 ---
 description: Tema 14, Tema 15, Tema 16
+hidden: true
 ---
 
 # Sesión 7

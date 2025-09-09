@@ -1,5 +1,6 @@
 ---
 description: Tema 4, Tema 5
+hidden: true
 ---
 
 # Sesión 2

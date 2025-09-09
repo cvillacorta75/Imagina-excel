@@ -1,5 +1,6 @@
 ---
 description: Tema 12, Tema 13
+hidden: true
 ---
 
 # Sesión 6

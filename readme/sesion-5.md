@@ -1,5 +1,6 @@
 ---
 description: Tema 10, Tema 11
+hidden: true
 ---
 
 # Sesión 5

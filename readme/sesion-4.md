@@ -1,5 +1,6 @@
 ---
 description: Tema 8, Tema 9
+hidden: true
 ---
 
 # Sesión 4
