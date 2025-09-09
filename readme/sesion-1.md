@@ -61,31 +61,6 @@
 
 ***
 
-<details>
-
-<summary>Tema 3 - Introducción a los datos</summary>
-
-* [ ] Introducir texto, números y fechas
-* [ ] Modificar y borrar contenido
-* [ ] Cortar, copiar, pegar valores o formatos
-* [ ] Rellenar celdas con patrones y series
-* [ ] Validación básica de datos
-* [ ] Búsqueda y reemplazo simple
-* [ ] Autocompletar valores
-* [ ] Uso del portapapeles
-* [ ] Detección de errores comunes
-* [ ] Comprobación ortográfica
-
-</details>
-
-{% embed url="https://docs.google.com/presentation/d/1w257uSEfT_sXwCVfzwC3CcUJ0PLC2wduWYaeBmTpg2w/edit?usp=sharing" %}
-
-#### Metodología
-
-{% file src="../.gitbook/assets/Guía Tema 3 - Participante.pdf" %}
-
-{% file src="../.gitbook/assets/3_1Inventario_inicial.xlsx" %}
-
 ***
 
 ### Atajos
