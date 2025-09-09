@@ -1,0 +1,11 @@
+FacturaID,Fecha,Cliente,Producto,Categoria,Unidades,PrecioUnitario
+INV-0501,01/05/2025,Clínica VetSur,Pienso Renal VetLife 10kg,Alimento,5,55.95
+INV-0502,01/05/2025,Centro Canino El Roble,Pipeta Antipulgas MaxProtect,Medicamento,20,12.5
+INV-0503,02/05/2025,Mascotas Felices SL,Juguete Hueso Goma,Accesorio,15,7.99
+INV-0504,03/05/2025,Clínica VetSur,Sutura Quirúrgica Absorbible,Material Médico,10,25.4
+INV-0505,04/05/2025,Hospital Animalia,Champú Dermatológico,Medicamento,8,18
+INV-0506,05/05/2025,Centro Canino El Roble,Snacks Dentales Pack 50,Alimento,30,22.5
+INV-0507,06/05/2025,Mascotas Felices SL,Collar de Cuero Grande,Accesorio,10,15
+INV-0508,07/05/2025,Clínica VetSur,Pienso Renal VetLife 10kg,Alimento,8,55.95
+INV-0509,08/05/2025,Hospital Animalia,Venda Cohesiva Pack 12,Material Médico,15,19.99
+INV-0510,09/05/2025,Centro Canino El Roble,Pipeta Antipulgas MaxProtect,Medicamento,25,12.5
