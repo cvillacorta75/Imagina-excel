@@ -54,6 +54,4 @@ Implementar gráficos avanzados y personalizados para una mejor visualización d
 
 #### Presentación Introductoria
 
-{% file src=".gitbook/assets/1 Curso Excel Intermedio.pdf" %}
-
-{% embed url="https://docs.google.com/presentation/d/1CHz4IQidmDfYZKKW_gnEKfcqtKqDhXh-B4P2UwDtmJ8/edit?usp=sharing" %}
+{% embed url="https://docs.google.com/presentation/d/1CHz4IQidmDfYZKKW_gnEKfcqtKqDhXh-B4P2UwDtmJ8/edit?usp=drive_link" %}
