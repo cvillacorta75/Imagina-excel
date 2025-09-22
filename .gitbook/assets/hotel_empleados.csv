@@ -1,0 +1,301 @@
+ID Empleado,Nombre,Apellido,Departamento,Salario Mensual,Bono Anual,Días de Vacaciones,Calificación de Desempeño
+101,Laura,Torres,Cocina,3112,630,19,96
+102,María,Martínez,Cocina,2933,864,15,90
+103,Luis,Ruiz,Gerencia,3472,638,16,88
+104,Elena,Pérez,Recursos Humanos,2988,449,21,76
+105,Pedro,López,Gerencia,2999,628,25,78
+106,Elena,López,Recursos Humanos,3305,214,15,74
+107,Ana,López,Mantenimiento,3357,206,20,62
+108,David,Pérez,Limpieza,3186,719,26,79
+109,José,López,Gerencia,2238,937,22,86
+110,Pedro,López,Limpieza,2263,864,26,94
+111,Pedro,Gómez,Recepción,2469,765,15,86
+112,Lucía,Rodríguez,Mantenimiento,3255,461,20,78
+113,Pedro,Pérez,Marketing,1535,915,15,95
+114,Ana,Díaz,Cocina,2630,754,23,94
+115,Laura,Torres,Cocina,2123,533,29,85
+116,Lucía,Sánchez,Mantenimiento,1881,699,23,68
+117,Sofía,González,Marketing,2630,891,23,92
+118,Luis,Navarro,Gerencia,2169,493,24,92
+119,David,Moreno,Marketing,2960,956,20,90
+120,Luis,Pérez,Cocina,1891,253,29,93
+121,Juan,Díaz,Mantenimiento,2103,835,27,89
+122,Pedro,Jiménez,Limpieza,2992,534,24,88
+123,Elena,Ruiz,Marketing,1574,359,27,91
+124,María,Jiménez,Cocina,1722,565,16,64
+125,Sofía,Díaz,Limpieza,3016,254,19,73
+126,Laura,Ruiz,Marketing,2550,430,21,87
+127,Diego,Álvarez,Gerencia,2160,966,23,87
+128,José,Fernández,Marketing,2714,875,21,86
+129,Carlos,Álvarez,Cocina,1767,418,27,91
+130,José,Rodríguez,Recursos Humanos,3239,335,26,74
+131,Paula,González,Limpieza,2690,662,22,99
+132,Lucía,Ruiz,Limpieza,2791,499,23,80
+133,David,Martínez,Mantenimiento,2231,224,27,86
+134,Sofía,Rodríguez,Recepción,3352,383,29,67
+135,José,Ruiz,Limpieza,2881,947,24,72
+136,Pedro,Jiménez,Cocina,2894,800,20,94
+137,Ana,Navarro,Recepción,2286,307,21,75
+138,José,Sánchez,Recursos Humanos,2282,837,24,76
+139,Laura,Navarro,Marketing,2202,820,19,90
+140,José,Rodríguez,Recursos Humanos,3129,825,24,81
+141,Sara,Navarro,Recepción,3267,375,22,75
+142,Diego,Torres,Recepción,3149,882,24,85
+143,José,González,Marketing,3105,389,27,71
+144,Pedro,Jiménez,Mantenimiento,2396,777,18,71
+145,Miguel,López,Gerencia,2015,276,24,91
+146,Juan,Sánchez,Recursos Humanos,2625,955,16,88
+147,Pedro,Ruiz,Recursos Humanos,2751,967,16,95
+148,José,Álvarez,Gerencia,3455,874,28,94
+149,David,Rodríguez,Marketing,2535,922,18,72
+150,Sara,Álvarez,Cocina,2141,462,21,81
+151,Laura,Moreno,Recepción,2089,348,23,92
+152,Lucía,Gómez,Recursos Humanos,3443,252,24,70
+153,Paula,Álvarez,Marketing,2106,461,20,89
+154,Laura,López,Limpieza,2569,622,16,64
+155,Carlos,Díaz,Marketing,3369,387,25,79
+156,Juan,Martínez,Limpieza,1599,701,21,69
+157,Lucía,Ruiz,Recursos Humanos,2740,891,25,66
+158,Paula,Pérez,Mantenimiento,2930,641,21,64
+159,Diego,Ruiz,Recepción,2546,646,16,77
+160,Pedro,Martínez,Gerencia,2934,325,28,80
+161,Lucía,González,Limpieza,2289,966,23,86
+162,María,Ruiz,Limpieza,1958,873,21,73
+163,Laura,Fernández,Marketing,3458,427,27,61
+164,José,Torres,Limpieza,2778,486,15,94
+165,Pedro,Navarro,Recursos Humanos,3174,495,25,63
+166,Elena,Fernández,Recursos Humanos,3406,631,18,96
+167,Ana,Jiménez,Mantenimiento,1653,334,29,69
+168,Diego,Fernández,Marketing,3028,766,18,69
+169,Luis,Pérez,Mantenimiento,3112,979,19,82
+170,Sara,Pérez,Mantenimiento,2767,365,23,89
+171,Miguel,Fernández,Mantenimiento,3376,909,15,67
+172,Luis,Álvarez,Gerencia,1844,775,28,72
+173,Diego,Fernández,Mantenimiento,1676,780,17,85
+174,Ana,Sánchez,Recursos Humanos,1645,294,19,86
+175,Lucía,Rodríguez,Limpieza,2856,619,16,92
+176,Sara,Torres,Marketing,3062,365,16,85
+177,José,Álvarez,Marketing,3139,526,27,74
+178,Diego,Álvarez,Marketing,2290,749,28,96
+179,Pedro,Álvarez,Cocina,1802,525,20,83
+180,Diego,Martínez,Marketing,2296,341,23,64
+181,Paula,Díaz,Recepción,1529,702,19,93
+182,José,González,Marketing,1557,466,15,88
+183,Lucía,Navarro,Recepción,3061,789,23,68
+184,Elena,Navarro,Cocina,3332,417,19,79
+185,Lucía,Gómez,Mantenimiento,1992,428,15,93
+186,Luis,Fernández,Recepción,1593,593,24,84
+187,Ana,Álvarez,Recursos Humanos,3325,303,25,98
+188,Carlos,Álvarez,Marketing,1910,248,22,76
+189,Elena,Ruiz,Cocina,1642,918,19,79
+190,Ana,Fernández,Cocina,2940,924,15,88
+191,Juan,Fernández,Mantenimiento,2727,293,28,90
+192,Carlos,Ruiz,Limpieza,3159,973,16,90
+193,Ana,López,Recepción,1771,515,19,84
+194,Carlos,Navarro,Gerencia,2573,959,22,70
+195,Sara,Moreno,Recursos Humanos,2697,621,27,98
+196,Juan,Martínez,Recepción,3210,632,22,69
+197,Elena,González,Mantenimiento,3227,590,23,92
+198,Carlos,Díaz,Recepción,2783,511,24,63
+199,Ana,Martínez,Recepción,1928,280,22,75
+200,Lucía,Pérez,Recepción,2624,408,29,61
+201,Miguel,Rodríguez,Recursos Humanos,2601,976,26,60
+202,Elena,Gómez,Limpieza,3466,886,26,98
+203,Diego,Gómez,Marketing,2731,677,16,72
+204,Carlos,Gómez,Gerencia,1798,533,29,87
+205,Miguel,Jiménez,Recepción,2301,812,22,97
+206,Paula,Rodríguez,Cocina,1790,686,22,74
+207,José,Pérez,Mantenimiento,2010,527,27,76
+208,Paula,Martínez,Limpieza,1736,746,15,86
+209,Lucía,Sánchez,Recepción,1802,696,16,80
+210,Carlos,Rodríguez,Mantenimiento,2027,996,25,88
+211,Pedro,Sánchez,Recepción,2609,388,21,92
+212,Sara,Álvarez,Mantenimiento,1609,204,29,75
+213,Paula,González,Cocina,2549,395,16,74
+214,David,Torres,Marketing,3465,613,19,86
+215,Lucía,Jiménez,Cocina,2492,511,26,82
+216,María,Sánchez,Limpieza,3379,342,20,72
+217,Juan,González,Limpieza,3040,452,26,83
+218,David,Moreno,Recepción,2825,258,18,72
+219,Lucía,Díaz,Recursos Humanos,3028,804,23,97
+220,Lucía,Ruiz,Recursos Humanos,2411,661,21,99
+221,Juan,Moreno,Marketing,3079,641,25,67
+222,Miguel,Ruiz,Marketing,3270,839,17,97
+223,Sara,Rodríguez,Gerencia,1518,816,22,81
+224,Ana,Martínez,Marketing,1978,770,23,91
+225,Paula,Jiménez,Cocina,3153,562,18,68
+226,Laura,Torres,Gerencia,3171,747,21,90
+227,María,Pérez,Gerencia,2692,452,16,70
+228,David,Fernández,Mantenimiento,1812,367,17,87
+229,Pedro,Rodríguez,Recursos Humanos,2734,286,15,66
+230,Juan,Jiménez,Limpieza,3273,459,22,79
+231,Juan,Martínez,Limpieza,1843,602,18,84
+232,José,Díaz,Recursos Humanos,1618,866,17,89
+233,Carlos,Moreno,Cocina,3068,329,21,76
+234,Carlos,Rodríguez,Mantenimiento,3376,882,18,91
+235,Carlos,Sánchez,Gerencia,1731,561,18,93
+236,Paula,Rodríguez,Limpieza,2541,726,24,78
+237,Laura,Gómez,Limpieza,1971,989,15,85
+238,Lucía,Álvarez,Recursos Humanos,2824,266,15,94
+239,David,Martínez,Recepción,2733,248,29,99
+240,Paula,Navarro,Cocina,2365,213,22,71
+241,Paula,Gómez,Limpieza,2351,336,20,87
+242,Ana,González,Cocina,1795,201,19,79
+243,José,Díaz,Gerencia,2442,448,19,98
+244,Carlos,Álvarez,Limpieza,3377,854,23,82
+245,María,Torres,Marketing,1991,690,27,96
+246,Carlos,Navarro,Gerencia,3418,256,26,78
+247,Sofía,Navarro,Recursos Humanos,3328,205,29,78
+248,Carlos,Jiménez,Gerencia,2391,988,17,98
+249,Sara,López,Marketing,2087,849,27,94
+250,Lucía,Martínez,Recursos Humanos,2751,882,25,63
+251,Miguel,Díaz,Cocina,2038,343,23,64
+252,Luis,Rodríguez,Recursos Humanos,2190,758,29,96
+253,Lucía,Pérez,Mantenimiento,1649,381,16,62
+254,David,Ruiz,Marketing,2181,387,27,78
+255,José,Díaz,Gerencia,1907,905,24,83
+256,Ana,Fernández,Limpieza,1678,932,22,70
+257,Sara,Martínez,Recursos Humanos,2950,539,17,88
+258,Carlos,Jiménez,Limpieza,2695,700,18,97
+259,Miguel,Rodríguez,Mantenimiento,3009,709,24,60
+260,Diego,González,Mantenimiento,2900,486,17,83
+261,Sara,Martínez,Recepción,2332,439,29,78
+262,José,Moreno,Mantenimiento,2706,558,28,78
+263,Pedro,Moreno,Limpieza,2583,474,18,91
+264,Sara,Gómez,Recepción,2839,539,24,64
+265,David,Álvarez,Limpieza,1556,649,15,97
+266,Paula,González,Mantenimiento,2448,410,20,73
+267,Sara,Navarro,Recepción,3457,577,20,88
+268,Pedro,Díaz,Recursos Humanos,3463,228,29,87
+269,José,Álvarez,Recepción,1726,215,15,77
+270,Pedro,Álvarez,Marketing,1528,665,28,77
+271,Miguel,Navarro,Cocina,3308,599,20,83
+272,José,Moreno,Recursos Humanos,2468,474,25,74
+273,Sofía,Moreno,Mantenimiento,2129,979,24,68
+274,Carlos,Gómez,Gerencia,2628,388,22,91
+275,Carlos,Jiménez,Limpieza,2224,303,28,98
+276,María,Díaz,Gerencia,2476,992,18,68
+277,Laura,Pérez,Mantenimiento,2167,627,16,75
+278,Sofía,Navarro,Recepción,1744,303,23,88
+279,Ana,Sánchez,Limpieza,2418,201,29,97
+280,Sofía,Gómez,Marketing,3201,589,17,71
+281,Sofía,Sánchez,Recursos Humanos,2200,334,20,87
+282,Luis,Rodríguez,Mantenimiento,2456,633,23,71
+283,Miguel,Díaz,Recursos Humanos,2313,653,23,85
+284,Pedro,Ruiz,Gerencia,2872,349,24,60
+285,Juan,Torres,Gerencia,2572,684,24,91
+286,Lucía,Navarro,Recursos Humanos,2910,537,28,76
+287,Pedro,Sánchez,Recepción,2736,541,22,85
+288,Carlos,López,Cocina,2943,216,24,79
+289,Sofía,Gómez,Recepción,1809,679,23,95
+290,Juan,López,Recursos Humanos,3175,969,26,69
+291,David,Díaz,Limpieza,2282,401,28,65
+292,Lucía,Navarro,Limpieza,1976,597,25,63
+293,María,Navarro,Recepción,2303,896,24,94
+294,Paula,Díaz,Cocina,3000,671,15,99
+295,María,Moreno,Limpieza,3058,397,29,71
+296,Carlos,Sánchez,Gerencia,2108,779,28,67
+297,Elena,Navarro,Mantenimiento,3231,907,25,90
+298,Pedro,González,Mantenimiento,2736,540,15,91
+299,Laura,Álvarez,Gerencia,3262,730,20,76
+300,David,González,Cocina,2649,317,17,93
+301,Paula,Díaz,Limpieza,1895,767,21,87
+302,Carlos,Rodríguez,Limpieza,2669,619,22,96
+303,Elena,Pérez,Cocina,2455,569,16,82
+304,Laura,Ruiz,Recepción,3104,435,16,68
+305,Ana,Torres,Marketing,2771,425,23,67
+306,Miguel,Rodríguez,Mantenimiento,2306,897,28,91
+307,David,Navarro,Cocina,1501,455,25,64
+308,María,Pérez,Marketing,3278,552,26,97
+309,María,Sánchez,Cocina,1599,697,28,72
+310,Luis,Navarro,Mantenimiento,2131,882,24,76
+311,María,Pérez,Mantenimiento,2571,756,20,86
+312,María,Álvarez,Cocina,2994,591,22,79
+313,Diego,Sánchez,Recepción,3419,555,22,99
+314,Paula,Gómez,Gerencia,1725,681,29,81
+315,María,González,Cocina,2161,913,22,88
+316,David,Navarro,Recursos Humanos,3336,650,29,85
+317,José,Navarro,Gerencia,1974,414,18,79
+318,Sofía,Díaz,Limpieza,2428,238,20,85
+319,Elena,Pérez,Mantenimiento,3355,624,26,66
+320,David,Álvarez,Limpieza,3123,227,21,96
+321,Ana,Jiménez,Recursos Humanos,1536,666,18,61
+322,David,Martínez,Recursos Humanos,3241,845,23,74
+323,Ana,Torres,Marketing,1667,873,25,83
+324,Juan,Navarro,Recepción,2926,273,29,92
+325,David,Rodríguez,Recepción,2167,590,17,85
+326,Ana,Rodríguez,Limpieza,1900,470,15,75
+327,Elena,Álvarez,Limpieza,2257,381,16,71
+328,Lucía,López,Gerencia,1565,919,22,92
+329,Elena,Pérez,Marketing,3157,615,15,94
+330,Carlos,Gómez,Recursos Humanos,2045,284,28,69
+331,Paula,Martínez,Cocina,2877,480,28,74
+332,Elena,Pérez,Limpieza,2917,788,16,84
+333,María,Sánchez,Gerencia,3317,761,27,92
+334,Paula,Moreno,Mantenimiento,1757,475,26,71
+335,Sofía,Martínez,Mantenimiento,2449,994,20,93
+336,Sara,Navarro,Recursos Humanos,2083,326,27,65
+337,David,González,Marketing,3356,434,20,89
+338,Miguel,Navarro,Recursos Humanos,3406,711,24,94
+339,Elena,López,Recursos Humanos,1786,827,29,84
+340,Lucía,Fernández,Marketing,1806,692,24,81
+341,Juan,Gómez,Recursos Humanos,3147,610,15,70
+342,Miguel,González,Marketing,2918,682,17,63
+343,Sara,Moreno,Marketing,1755,269,22,84
+344,David,Moreno,Limpieza,1631,583,16,72
+345,Luis,Álvarez,Mantenimiento,2015,622,28,69
+346,Pedro,González,Limpieza,2101,777,16,87
+347,Sara,Moreno,Cocina,2290,889,23,74
+348,David,González,Limpieza,3410,386,28,81
+349,Miguel,Gómez,Recursos Humanos,3044,563,16,66
+350,Carlos,López,Recursos Humanos,3220,818,25,90
+351,Sofía,Álvarez,Cocina,2168,914,23,63
+352,Sara,Díaz,Marketing,2324,632,22,70
+353,Carlos,Jiménez,Mantenimiento,2827,966,23,73
+354,Luis,Álvarez,Mantenimiento,3492,520,29,74
+355,Lucía,Rodríguez,Limpieza,3208,517,26,89
+356,Luis,Gómez,Recursos Humanos,2949,690,26,76
+357,Laura,Gómez,Cocina,2449,619,18,90
+358,Diego,Moreno,Gerencia,1801,938,15,80
+359,Carlos,Moreno,Gerencia,2799,943,16,98
+360,Lucía,Martínez,Limpieza,1896,598,27,82
+361,David,Torres,Limpieza,2523,891,24,65
+362,Sara,Ruiz,Cocina,2425,444,16,63
+363,María,Rodríguez,Recursos Humanos,3465,916,27,67
+364,Laura,Díaz,Recepción,1571,791,17,89
+365,Ana,Jiménez,Gerencia,2913,562,29,60
+366,Ana,Gómez,Mantenimiento,3133,736,24,60
+367,Lucía,Díaz,Limpieza,2565,906,29,90
+368,Juan,González,Mantenimiento,2627,960,27,68
+369,Sofía,Álvarez,Limpieza,3455,251,20,92
+370,Paula,Ruiz,Marketing,3075,502,22,95
+371,David,Fernández,Recursos Humanos,1802,511,16,86
+372,Lucía,Moreno,Recepción,3308,288,16,80
+373,Lucía,Martínez,Limpieza,3114,493,15,94
+374,Luis,Navarro,Gerencia,2754,922,26,77
+375,Paula,Ruiz,Limpieza,1935,227,25,75
+376,María,Pérez,Recepción,3438,784,22,97
+377,Juan,Díaz,Mantenimiento,3345,767,24,66
+378,Diego,González,Mantenimiento,2630,358,24,65
+379,Carlos,Moreno,Marketing,2485,354,15,84
+380,Miguel,González,Mantenimiento,2506,268,27,80
+381,Pedro,Rodríguez,Limpieza,2478,919,24,66
+382,Ana,López,Recepción,1879,925,24,62
+383,Elena,López,Marketing,1732,318,15,88
+384,Diego,Jiménez,Limpieza,2687,652,26,81
+385,Laura,Sánchez,Cocina,1927,416,20,93
+386,Ana,Álvarez,Recursos Humanos,2652,907,27,89
+387,Elena,Moreno,Gerencia,3300,822,22,95
+388,Pedro,Torres,Marketing,1547,451,19,90
+389,María,López,Marketing,3363,876,17,92
+390,Juan,Álvarez,Mantenimiento,2868,522,18,69
+391,Laura,Pérez,Gerencia,2042,994,18,92
+392,Lucía,Martínez,Mantenimiento,1510,316,19,64
+393,Laura,Gómez,Marketing,2494,640,25,91
+394,David,Torres,Limpieza,2089,912,17,64
+395,Luis,Moreno,Marketing,3212,955,27,73
+396,Miguel,González,Recursos Humanos,2389,868,16,95
+397,José,Álvarez,Gerencia,3387,516,23,74
+398,Luis,Díaz,Recursos Humanos,1535,906,25,84
+399,Diego,Torres,Limpieza,1770,507,28,81
+400,Diego,Fernández,Marketing,3156,689,23,80

@@ -272,11 +272,46 @@ Un ejemplo clásico es la asignación de categorías. En una lista de estudiante
 
 <summary>Guía de Ejercicio: Fórmulas y Funciones elementales</summary>
 
+Utiliza una nueva hoja de cálculo para crear el siguiente análisis. Utiliza el archivo hotel\_empleados.csv
 
+**1. Formato y uso de texto (MAYUSC, MINUSC y Nombres propios)**
+
+* Crea una nueva columna llamada "Nombre Completo".
+* En esta columna, combina el nombre y apellido de cada empleado en un formato de nombre propio (por ejemplo, "Juan Pérez"). Aplica las fórmulas necesarias para que el nombre y el apellido comiencen con mayúscula.
+
+**2. Conteo de datos (CONTAR, CONTARA, CONTAR.SI)**
+
+* En una celda separada, utiliza la función CONTARA para obtener el número total de empleados del hotel.
+* En otra celda, usa la función CONTAR para contar cuántos empleados tienen un registro de salario (debes obtener el mismo número si todos los registros están completos).
+* Ahora, utiliza CONTAR.SI para responder a las siguientes preguntas:
+* ¿Cuántos empleados trabajan en el departamento de "Recepción"?
+* ¿Cuántos empleados tienen un salario mensual superior a 2.000€?
+* ¿Cuántos empleados tienen una calificación de desempeño mayor o igual a 90?
+
+**3. Análisis de estadísticas y sumas condicionadas (SUMA, MIN, MAX, PROMEDIO, SUMAR.SI)**
+
+* Calcula el salario total de la nómina del hotel usando la función SUMA.
+* Encuentra el salario más alto (MAX) y el salario más bajo (MIN) en la base de datos.
+* Calcula el salario promedio (PROMEDIO) de todos los empleados.
+* Utiliza la función SUMAR.SI para calcular el monto total de bonos que se entregarán solo al personal del departamento de "Cocina".
+
+**4. Lógica condicional (SI)**
+
+* Crea una nueva columna llamada "Elegibilidad de Bono".
+* En esta columna, utiliza la función SI para evaluar el desempeño de cada empleado:
+* Si la calificación de desempeño es igual o mayor a 85, la celda debe mostrar el texto "Elegible".
+* Si la calificación de desempeño es menor a 85, la celda debe mostrar el texto "No elegible".
+
+**5. Desafío extra: Combinando operaciones**
+
+* Calcula el costo anual total por empleado, sumando el salario mensual, el bono anual y un costo adicional fijo de 100€ por cada día de vacaciones (para compensar el coste de reemplazo). Utiliza paréntesis para aplicar la jerarquía de las operaciones correctamente:
+* Salario Mensual \* 12 + Bono Anual + (Días de Vacaciones \* 100)
+
+Calcula el costo anual total de los empleados del departamento de "Limpieza" utilizando una fórmula combinada.
 
 </details>
 
-{% file src="../.gitbook/assets/2_1Nuevos_Clientes.csv" %}
+{% file src="../.gitbook/assets/hotel_empleados.csv" %}
 
 ***
 
@@ -299,10 +334,4 @@ Un ejemplo clásico es la asignación de categorías. En una lista de estudiante
 | Ctrl + B      | Abrir diálogo de búsqueda |   |
 | F7            | Corregir ortografía       |   |
 
-Test de Repaso
-
-{% embed url="https://forms.cloud.microsoft/r/FSix1meSKH" %}
-
 #### Feedback
-
-{% embed url="https://imagina-formacion.typeform.com/to/LI5k2dmy" %}
