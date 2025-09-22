@@ -121,13 +121,13 @@ Para este ejercicio, usaremos un archivo de datos de ventas en formato `.csv` ll
 * Renombra la nueva hoja como "Reporte de Ventas".
 * Ahora, cambia el orden de las hojas arrastrando la pestaña de "Reporte de Ventas" para que quede en primer lugar.
 * Haz clic en la pestaña de la hoja llamada "Reporte de Ventas" y coloréala de un color llamativo, por ejemplo, azul.
-* Elimina la hoja original del archivo `.csv` que contiene los datos en bruto.
 
 **4. Organiza el contenido**
 
 * Copia todos los datos del archivo que acabas de abrir.
 * Ve a la hoja de "Reporte de Ventas" y pega el contenido.
 * Ajusta el ancho de las columnas para que todos los datos sean visibles.
+* Elimina la hoja original del archivo `.csv` que contiene los datos en bruto.
 
 **5. Guarda el archivo en un formato nuevo**
 
@@ -137,7 +137,7 @@ Para este ejercicio, usaremos un archivo de datos de ventas en formato `.csv` ll
 
 **6. Navega y protege el trabajo**
 
-* Inserta múltiples hojas a la vez para simular que vas a crear una hoja por cada trimestre. Hazlo de la forma que te resulte más cómoda.
+* Inserta múltiples hojas a la vez para simular que vas a crear una hoja por cada categoría. Hazlo de la forma que te resulte más cómoda.
 * Practica la navegación entre hojas usando el mouse y los atajos de teclado (`Ctrl + Re Pág` y `Ctrl + Av Pág`).
 * Para evitar que los datos de ventas se modifiquen por error, protege la hoja "Reporte de Ventas".
 
