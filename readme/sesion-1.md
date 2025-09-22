@@ -315,6 +315,18 @@ Calcula el costo anual total de los empleados del departamento de "Limpieza" uti
 
 ***
 
+<details>
+
+<summary>Ejercicio Adicional</summary>
+
+Utilizando el archivo hotel\_bookings.csv y teniendo en cuenta que el detalle del contenido está en el url [https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand)
+
+Generar 5 métricas utilizando las fórmulas vistas en la clase
+
+</details>
+
+{% file src="../.gitbook/assets/hotel_bookings.csv.zip" %}
+
 ***
 
 ### Atajos
