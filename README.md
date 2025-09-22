@@ -23,14 +23,14 @@ Implementar gráficos avanzados y personalizados para una mejor visualización d
 
 | Sesiones | Temas            | Fecha                 |
 | -------- | ---------------- | --------------------- |
-| Sesión 1 | Tema 1, Tema 2   | 22/09/2025 (3-6pm)    |
-| Sesión 2 | Tema 3, Tema 4   | 29/09/2025 (3-6pm)    |
-| Sesión 3 | Tema 5, Tema 6   | 01/10/2025 (3-6pm)    |
-| Sesión 4 | Tema 7, Tema 8,  | 06/10/2025 (3-6pm)    |
-| Sesión 5 | Tema 9, Tema 10  | 20/10/2025 (3-6pm)    |
-| Sesión 6 | Tema 11, Tema 12 | 27/10/2025 (3-6pm)    |
-| Sesión 7 | Tema 13          | 03/11/2025 (2:30-6pm) |
-| Sesión 8 | Tema 14          | 10/11/2025 (2:30-6pm) |
+| Sesión 1 | Tema 1, Tema 2   | 29/09/2025 (3-6pm)    |
+| Sesión 2 | Tema 3, Tema 4   | 01/10/2025 (3-6pm)    |
+| Sesión 3 | Tema 5, Tema 6   | 06/10/2025 (3-6pm)    |
+| Sesión 4 | Tema 7, Tema 8,  | 20/10/2025 (3-6pm)    |
+| Sesión 5 | Tema 9, Tema 10  | 27/10/2025 (3-6pm)    |
+| Sesión 6 | Tema 11, Tema 12 | 03/11/2025 (3-6pm)    |
+| Sesión 7 | Tema 13          | 10/11/2025 (2:30-6pm) |
+| Sesión 8 | Tema 14          | 17/11/2025 (2:30-6pm) |
 
 
 
